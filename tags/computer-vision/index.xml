@@ -1,38 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Computer Vision on SuJin&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/computer-vision/</link>
-    <description>Recent content in Computer Vision on SuJin&#39;s Portfolio</description>
-    <generator>Hugo -- 0.148.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Age Classfier</title>
-      <link>http://localhost:1313/team-projects/age-predictor/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team-projects/age-predictor/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;SUMMARY&lt;/h3&gt;
-&lt;p&gt;A program that predicts a person&amp;rsquo;s age using an Age Classifier model when a face photo is uploaded.&lt;/p&gt;
-&lt;h3 id=&#34;goal&#34;&gt;GOAL&lt;/h3&gt;
-&lt;p&gt;Create an internal management program that manages services for ML and DL models, aggregates data, and analyzes it.&lt;/p&gt;
-&lt;h3 id=&#34;participant&#34;&gt;PARTICIPANT&lt;/h3&gt;
-&lt;p&gt;5 (AC)&lt;/p&gt;
-&lt;h3 id=&#34;role&#34;&gt;ROLE&lt;/h3&gt;
-&lt;p&gt;Backend(Image preprocessing), Data Analysis&lt;/p&gt;
-&lt;h3 id=&#34;tools&#34;&gt;TOOLS&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Frontend: Streamlit&lt;/li&gt;
-&lt;li&gt;Backend: FastAPI&lt;/li&gt;
-&lt;li&gt;Workflow Management: Apache Airflow&lt;/li&gt;
-&lt;li&gt;Data Analysis and Visualization: Apache Spark&lt;/li&gt;
-&lt;li&gt;DB: Maria DB      &lt;/li&gt;
-&lt;li&gt;ML: &lt;a href=&#34;https://huggingface.co/nateraw/vit-age-classifier&#34;&gt;age-classifier model by HuggingFace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;architecture&#34;&gt;ARCHITECTURE&lt;/h3&gt;
-&lt;p&gt;Project architecture
-&lt;img alt=&#34;project&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/AgeClassifier/arch_project.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Computer Vision on SuJin's Portfolio</title><link>https://s00zzang.github.io/tags/computer-vision/</link><description>Recent content in Computer Vision on SuJin's Portfolio</description><generator>Hugo -- 0.148.2</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://s00zzang.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml"/><item><title>Age Classfier</title><link>https://s00zzang.github.io/team-projects/age-predictor/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://s00zzang.github.io/team-projects/age-predictor/</guid><description>&lt;h3 id="summary">SUMMARY&lt;/h3>
+&lt;p>A program that predicts a person&amp;rsquo;s age using an Age Classifier model when a face photo is uploaded.&lt;/p>
+&lt;h3 id="goal">GOAL&lt;/h3>
+&lt;p>Create an internal management program that manages services for ML and DL models, aggregates data, and analyzes it.&lt;/p>
+&lt;h3 id="participant">PARTICIPANT&lt;/h3>
+&lt;p>5 (AC)&lt;/p>
+&lt;h3 id="role">ROLE&lt;/h3>
+&lt;p>Backend(Image preprocessing), Data Analysis&lt;/p>
+&lt;h3 id="tools">TOOLS&lt;/h3>
+&lt;ul>
+&lt;li>Frontend: Streamlit&lt;/li>
+&lt;li>Backend: FastAPI&lt;/li>
+&lt;li>Workflow Management: Apache Airflow&lt;/li>
+&lt;li>Data Analysis and Visualization: Apache Spark&lt;/li>
+&lt;li>DB: Maria DB      &lt;/li>
+&lt;li>ML: &lt;a href="https://huggingface.co/nateraw/vit-age-classifier">age-classifier model by HuggingFace&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="architecture">ARCHITECTURE&lt;/h3>
+&lt;p>Project architecture
+&lt;img alt="project" loading="lazy" src="https://s00zzang.github.io/images/AgeClassifier/arch_project.png">&lt;/p></description></item></channel></rss>

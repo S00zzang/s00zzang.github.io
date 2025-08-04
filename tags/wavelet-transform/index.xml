@@ -1,29 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Wavelet Transform on SuJin&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/wavelet-transform/</link>
-    <description>Recent content in Wavelet Transform on SuJin&#39;s Portfolio</description>
-    <generator>Hugo -- 0.148.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wavelet-transform/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MODWT-Based Time Series Transformation and Visualization</title>
-      <link>http://localhost:1313/personal-projects/modwt-heatmap/</link>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/personal-projects/modwt-heatmap/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;📌 &lt;em&gt;This project is a continuation of &lt;a href=&#34;../quantile-correlation/&#34;&gt;Quantile Correlation Analysis Tool Implementation&lt;/a&gt;, expanding on statistical modeling concepts introduced in the original research.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;-series&#34;&gt;🔗 SERIES&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../quantile-correlation/&#34;&gt;1. Quantile Correlation Analysis Tool Implementation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../modwt-heatmap/&#34;&gt;2. MODWT Time Series Transformation and Visualization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../cifar10-cnn-demo/&#34;&gt;3. CIFAR-10 CNN Classification Practice&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../altcoin-wqc-predict/&#34;&gt;4. Altcoin Price Predicion Based on WQC Image Analysis&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;summary&#34;&gt;SUMMARY&lt;/h3&gt;
-&lt;p&gt;This mini research project was conducted as a follow-up to the &lt;em&gt;Quantile Correlation Analysis Tool Implementation&lt;/em&gt;. Based on concepts from the paper ,&lt;em&gt;&lt;a href=&#34;https://drive.google.com/file/d/1tcT1sPUUOyceRFVX3eHpvJPPq1AwEBPn/view?usp=share_link&#34;&gt;Testing the safe-haven properties of gold and bitcoin in the backdrop of COVID-19_A wavelet quantile correlation approach&lt;/a&gt;&lt;/em&gt; it explores the theory behind wavelet transformations and implements MODWT in Python.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Wavelet Transform on SuJin's Portfolio</title><link>https://s00zzang.github.io/tags/wavelet-transform/</link><description>Recent content in Wavelet Transform on SuJin's Portfolio</description><generator>Hugo -- 0.148.2</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://s00zzang.github.io/tags/wavelet-transform/index.xml" rel="self" type="application/rss+xml"/><item><title>MODWT-Based Time Series Transformation and Visualization</title><link>https://s00zzang.github.io/personal-projects/modwt-heatmap/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://s00zzang.github.io/personal-projects/modwt-heatmap/</guid><description>&lt;blockquote>
+&lt;p>📌 &lt;em>This project is a continuation of &lt;a href="../quantile-correlation/">Quantile Correlation Analysis Tool Implementation&lt;/a>, expanding on statistical modeling concepts introduced in the original research.&lt;/em>&lt;/p>&lt;/blockquote>
+&lt;h2 id="-series">🔗 SERIES&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../quantile-correlation/">1. Quantile Correlation Analysis Tool Implementation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../modwt-heatmap/">2. MODWT Time Series Transformation and Visualization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../cifar10-cnn-demo/">3. CIFAR-10 CNN Classification Practice&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../altcoin-wqc-predict/">4. Altcoin Price Predicion Based on WQC Image Analysis&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="summary">SUMMARY&lt;/h3>
+&lt;p>This mini research project was conducted as a follow-up to the &lt;em>Quantile Correlation Analysis Tool Implementation&lt;/em>. Based on concepts from the paper ,&lt;em>&lt;a href="https://drive.google.com/file/d/1tcT1sPUUOyceRFVX3eHpvJPPq1AwEBPn/view?usp=share_link">Testing the safe-haven properties of gold and bitcoin in the backdrop of COVID-19_A wavelet quantile correlation approach&lt;/a>&lt;/em> it explores the theory behind wavelet transformations and implements MODWT in Python.&lt;/p></description></item></channel></rss>

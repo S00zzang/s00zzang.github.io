@@ -1,39 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Recommendation on SuJin&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/recommendation/</link>
-    <description>Recent content in Recommendation on SuJin&#39;s Portfolio</description>
-    <generator>Hugo -- 0.148.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/recommendation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CINEMATE</title>
-      <link>http://localhost:1313/team-projects/movie-social-network/</link>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team-projects/movie-social-network/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;SUMMARY&lt;/h3&gt;
-&lt;p&gt;A platform where users can analyze their movie tastes to find people with similar preferences and chat in real time.&lt;/p&gt;
-&lt;h3 id=&#34;goal&#34;&gt;GOAL&lt;/h3&gt;
-&lt;p&gt;Based on each user&amp;rsquo;s top 10 movie list, personal preferences are analyzed using similarity algorithms. The system provides a list of users with similar tastes and enables real-time chat.&lt;/p&gt;
-&lt;h3 id=&#34;participant&#34;&gt;PARTICIPANT&lt;/h3&gt;
-&lt;p&gt;5 (AA)&lt;/p&gt;
-&lt;h3 id=&#34;role&#34;&gt;ROLE&lt;/h3&gt;
-&lt;p&gt;Frontend&lt;/p&gt;
-&lt;h3 id=&#34;tools&#34;&gt;TOOLS&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Frontend: Flutter&lt;/li&gt;
-&lt;li&gt;Backend:  FastAPI, WebSocket, Kafka&lt;/li&gt;
-&lt;li&gt;Data Analysis: Apache Spark&lt;/li&gt;
-&lt;li&gt;Deployment &amp;amp; Management: AWS EC2, Docker, Airflow&lt;/li&gt;
-&lt;li&gt;DB: Mongo DB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;architecture&#34;&gt;ARCHITECTURE&lt;/h3&gt;
-&lt;p&gt;Project architecture
-&lt;img alt=&#34;project&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/CINEMATE/arch_project.png&#34;&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Recommendation on SuJin's Portfolio</title><link>https://s00zzang.github.io/tags/recommendation/</link><description>Recent content in Recommendation on SuJin's Portfolio</description><generator>Hugo -- 0.148.2</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://s00zzang.github.io/tags/recommendation/index.xml" rel="self" type="application/rss+xml"/><item><title>CINEMATE</title><link>https://s00zzang.github.io/team-projects/movie-social-network/</link><pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate><guid>https://s00zzang.github.io/team-projects/movie-social-network/</guid><description>&lt;h3 id="summary">SUMMARY&lt;/h3>
+&lt;p>A platform where users can analyze their movie tastes to find people with similar preferences and chat in real time.&lt;/p>
+&lt;h3 id="goal">GOAL&lt;/h3>
+&lt;p>Based on each user&amp;rsquo;s top 10 movie list, personal preferences are analyzed using similarity algorithms. The system provides a list of users with similar tastes and enables real-time chat.&lt;/p>
+&lt;h3 id="participant">PARTICIPANT&lt;/h3>
+&lt;p>5 (AA)&lt;/p>
+&lt;h3 id="role">ROLE&lt;/h3>
+&lt;p>Frontend&lt;/p>
+&lt;h3 id="tools">TOOLS&lt;/h3>
+&lt;ul>
+&lt;li>Frontend: Flutter&lt;/li>
+&lt;li>Backend: FastAPI, WebSocket, Kafka&lt;/li>
+&lt;li>Data Analysis: Apache Spark&lt;/li>
+&lt;li>Deployment &amp;amp; Management: AWS EC2, Docker, Airflow&lt;/li>
+&lt;li>DB: Mongo DB&lt;/li>
+&lt;/ul>
+&lt;h3 id="architecture">ARCHITECTURE&lt;/h3>
+&lt;p>Project architecture
+&lt;img alt="project" loading="lazy" src="https://s00zzang.github.io/images/CINEMATE/arch_project.png">
 DB architecture
-&lt;img alt=&#34;DB&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/CINEMATE/arch_db.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;img alt="DB" loading="lazy" src="https://s00zzang.github.io/images/CINEMATE/arch_db.png">&lt;/p></description></item></channel></rss>
