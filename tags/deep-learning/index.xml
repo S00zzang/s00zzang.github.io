@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deep Learning on SuJin&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on SuJin&#39;s Portfolio</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CIFAR-10 CNN Classification Practice</title>
+      <link>http://localhost:1313/personal-projects/cifar10-cnn-demo/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/personal-projects/cifar10-cnn-demo/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;📌 &lt;em&gt;This project is a continuation of &lt;a href=&#34;../modwt-heatmap/&#34;&gt;MODWT Time Series Transformation and Visualization&lt;/a&gt;, shifting from statistical signal processing to deep learning model experimentation.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;-series&#34;&gt;🔗 SERIES&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../quantile-correlation/&#34;&gt;1. Quantile Correlation Analysis Tool Implementation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../modwt-heatmap/&#34;&gt;2. MODWT-Based Time Series Transformation and Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../cifar10-cnn-demo/&#34;&gt;3. CIFAR-10 CNN Classification Practice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../altcoin-wqc-predict/&#34;&gt;4. Altcoin Price Prediction Based on WQC Image Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;summary&#34;&gt;SUMMARY&lt;/h3&gt;
+&lt;p&gt;A mini research project following &amp;ldquo;MODWT-Based Time Series Transformation and Visualization&amp;rdquo;, conducted as part of an undergraduate research initiative.&lt;br&gt;
+This project involved studying &lt;a href=&#34;https://drive.google.com/file/d/1U82gElpJpUjAHXTYumumvPbWCUw2OhI9/view?usp=share_link&#34;&gt;&lt;strong&gt;Chapter 11&lt;/strong&gt; of &lt;em&gt;Understanding Deep Learning&lt;/em&gt;&lt;/a&gt;and implementing a basic CNN for CIFAR-10 classification to build hands-on understanding of deep learning principles.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

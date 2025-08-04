@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HuggingFace on SuJin&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/huggingface/</link>
+    <description>Recent content in HuggingFace on SuJin&#39;s Portfolio</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/huggingface/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hotdog Regression</title>
+      <link>http://localhost:1313/personal-projects/hotdog/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/personal-projects/hotdog/</guid>
+      <description>&lt;h3 id=&#34;프로젝트-개요&#34;&gt;프로젝트 개요&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/julien-c/hotdog-not-hotdog&#34;&gt;&lt;strong&gt;Hugging Face Transformers&lt;/strong&gt;&lt;/a&gt;의 사전 학습 모델을 활용한 간단한 핫도그 분류 웹 애플리케이션 (HBO &amp;lsquo;Silicon Valley&amp;rsquo;의 핫도그 분별 아이디어)&lt;/p&gt;
+&lt;h3 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h3&gt;
+&lt;p&gt;Python, FastAPI, Hugging Face, Streamlit&lt;/p&gt;
+&lt;h3 id=&#34;사용-결과-및-화면&#34;&gt;사용 결과 및 화면&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;핫도그 결과1&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/user-attachments/assets/3fed442e-7048-4e9e-897f-917325870e87&#34;&gt;
+&lt;img alt=&#34;핫도그 결과2&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/user-attachments/assets/7ac6a72f-cbe1-4ac1-8c81-1a006983cccb&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;github&#34;&gt;GitHub&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/S00zzang-portfolio/hotdog&#34;&gt;https://github.com/S00zzang-portfolio/hotdog&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

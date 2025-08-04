@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chat on SuJin&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/chat/</link>
+    <description>Recent content in Chat on SuJin&#39;s Portfolio</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/chat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CINEMATE</title>
+      <link>http://localhost:1313/team-projects/movie-social-network/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team-projects/movie-social-network/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;SUMMARY&lt;/h3&gt;
+&lt;p&gt;A platform where users can analyze their movie tastes to list people with similar tastes and talk to each other&lt;/p&gt;
+&lt;h3 id=&#34;goal&#34;&gt;GOAL&lt;/h3&gt;
+&lt;p&gt;Based on each user&amp;rsquo;s movie top10 list, personal preferences are analyzed and similarity algorithms are implemented to provide a list of users with similar preferences to enable real-time chat&lt;/p&gt;
+&lt;h3 id=&#34;participant&#34;&gt;PARTICIPANT&lt;/h3&gt;
+&lt;p&gt;5 (AA)&lt;/p&gt;
+&lt;h3 id=&#34;role&#34;&gt;ROLE&lt;/h3&gt;
+&lt;p&gt;Frontend&lt;/p&gt;
+&lt;h3 id=&#34;tools&#34;&gt;TOOLS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontend: Flutter&lt;/li&gt;
+&lt;li&gt;Backend:  FastAPI, WebSocket, Kafka&lt;/li&gt;
+&lt;li&gt;Data Analysis: Apache Spark&lt;/li&gt;
+&lt;li&gt;Deployment &amp;amp; Management: AWS EC2, Docker, Airflow&lt;/li&gt;
+&lt;li&gt;DB: Mongo DB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;architecture&#34;&gt;ARCHITECTURE&lt;/h3&gt;
+&lt;p&gt;Project architecture
+&lt;img alt=&#34;project&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/CINEMATE/arch_project.png&#34;&gt;
+DB architecture
+&lt;img alt=&#34;DB&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/CINEMATE/arch_db.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AGE CLASSIFIER</title>
+      <link>http://localhost:1313/team-projects/age-predictor/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team-projects/age-predictor/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;SUMMARY&lt;/h3&gt;
+&lt;p&gt;A program that predicts age with an Age-Classifier Model when you upload a face photo&lt;/p&gt;
+&lt;h3 id=&#34;goal&#34;&gt;GOAL&lt;/h3&gt;
+&lt;p&gt;Create an internal management program that manages services for ML and DL models and aggregates and analyzes data&lt;/p&gt;
+&lt;h3 id=&#34;participant&#34;&gt;PARTICIPANT&lt;/h3&gt;
+&lt;p&gt;5 (AC)&lt;/p&gt;
+&lt;h3 id=&#34;role&#34;&gt;ROLE&lt;/h3&gt;
+&lt;p&gt;Backend(Image preprocessing), Data Analysis&lt;/p&gt;
+&lt;h3 id=&#34;tools&#34;&gt;TOOLS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontend: Streamlit&lt;/li&gt;
+&lt;li&gt;Backend: FastAPI&lt;/li&gt;
+&lt;li&gt;Workflow Management: Apache Airflow&lt;/li&gt;
+&lt;li&gt;Data Analysis and Visualization: Apache Spark&lt;/li&gt;
+&lt;li&gt;DB: Maria DB      &lt;/li&gt;
+&lt;li&gt;ML: age-classifier model by HuggingFace&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;architecture&#34;&gt;ARCHITECTURE&lt;/h3&gt;
+&lt;p&gt;Project architecture
+&lt;img alt=&#34;project&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/AgeClassifier/arch_project.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;point&#34;&gt;POINT&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Key Flows for File Upload and DB Interworking
+&lt;img alt=&#34;point&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/AgeClassifier/point_1.png&#34;&gt; &lt;!-- raw HTML omitted --&gt;FastAPI - main.py&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;sA structure that takes this file path from the Airflow DAG, executes the prediction, and stores the prediction results back in the DB&lt;/li&gt;
+&lt;li&gt;This logic is used to process file uploads, and then FastAPI and Airflow are linked to work sequentially.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;output&#34;&gt;OUTPUT&lt;/h3&gt;
+&lt;p&gt;age prediction result
+&lt;img alt=&#34;output1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/AgeClassifier/output_user1.png&#34;&gt;
+&lt;img alt=&#34;output2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/AgeClassifier/output_user2.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“Hotdog Regression”</title>
+      <link>http://localhost:1313/personal-projects/hotdog/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/personal-projects/hotdog/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;SUMMARY&lt;/h3&gt;
+&lt;p&gt;A simple hotdog classification web application inspired by the hotdog/not-hotdog idea from HBO&amp;rsquo;s Silicon Valley.&lt;/p&gt;
+&lt;h3 id=&#34;goal&#34;&gt;GOAL&lt;/h3&gt;
+&lt;p&gt;Understand how FastAPI builds API servers and interacts with ML model&lt;/p&gt;
+&lt;h3 id=&#34;participant&#34;&gt;PARTICIPANT&lt;/h3&gt;
+&lt;p&gt;Alone&lt;/p&gt;
+&lt;h3 id=&#34;role&#34;&gt;ROLE&lt;/h3&gt;
+&lt;p&gt;Data engineering, Frontend, Backend &lt;/p&gt;
+&lt;h3 id=&#34;tools&#34;&gt;TOOLS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Language: Python&lt;/li&gt;
+&lt;li&gt;Forntend: Streamlit&lt;/li&gt;
+&lt;li&gt;Backent: FastAPI&lt;/li&gt;
+&lt;li&gt;ML: &lt;a href=&#34;https://huggingface.co/julien-c/hotdog-not-hotdog&#34;&gt;Hotdog model by HuggingFace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;architecture&#34;&gt;ARCHITECTURE&lt;/h3&gt;
+&lt;p&gt;Project architecture
+&lt;img alt=&#34;project&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/hotdog/arch_project.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;point&#34;&gt;POINT&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Generating hot dog discrimination results
+&lt;img alt=&#34;point&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/hotdog/point_1.png&#34;&gt; &lt;!-- raw HTML omitted --&gt;FastAPI - main.py&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Load &amp;lsquo;Julien-c/hotdog-not-hotdog&amp;rsquo;, a pre-trained model of the Hugging Face.&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;Image.open (io.BytesIO(img)&amp;rsquo; converts images received in bytes into PIL image objects.&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;p[0][&amp;lsquo;score&amp;rsquo;]&amp;rsquo; takes the reliability score predicted by the model and returns the result to the client in JSON format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;output&#34;&gt;OUTPUT&lt;/h3&gt;
+&lt;p&gt;if it is a hotdog 
+&lt;img alt=&#34;output1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/hotdog/output_hotdog.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Business messenger based Kafka</title>
+      <link>http://localhost:1313/team-projects/kafka-chat/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team-projects/kafka-chat/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;SUMMARY&lt;/h3&gt;
+&lt;p&gt;A program using Apache Kafka with added chatbot function&lt;/p&gt;
+&lt;h3 id=&#34;goal&#34;&gt;GOAL&lt;/h3&gt;
+&lt;p&gt;Work conversation functions and chatbot functions (movies, systems, schedules) and work conversation analysis functions (zeppelin)&lt;/p&gt;
+&lt;h3 id=&#34;participant&#34;&gt;PARTICIPANT&lt;/h3&gt;
+&lt;p&gt;4 (PM)&lt;/p&gt;
+&lt;h3 id=&#34;role&#34;&gt;ROLE&lt;/h3&gt;
+&lt;p&gt;Backend(Chatbot function(schedule)), Data Analysis(work conversation analysis function)&lt;/p&gt;
+&lt;h3 id=&#34;tools&#34;&gt;TOOLS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Streaming System: Apache Kafka&lt;/li&gt;
+&lt;li&gt;Distributed Data Processing: Apache Spark&lt;/li&gt;
+&lt;li&gt;Workflow Management: Apache Airflow&lt;/li&gt;
+&lt;li&gt;Data Analysis and Visualization: Apache Zeppelin&lt;/li&gt;
+&lt;li&gt;Operating System: Linux (Ubuntu)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;architecture&#34;&gt;ARCHITECTURE&lt;/h3&gt;
+&lt;p&gt;Project architecture
+&lt;img alt=&#34;project&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/KafkaChat/arch_project.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;point&#34;&gt;POINT&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Send and receive real-time messages using KafkaProducer and KafkaConsumer
+&lt;img alt=&#34;point1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/KafkaChat/point_1.png&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;The producer sends the message entered by the user to Kafka, and the consumer receives the message in real time from Kafka and outputs it on the screen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;trouble-shooting&#34;&gt;TROUBLE SHOOTING&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;During the data extraction process using airflow, special characters are extracted together
+&lt;img alt=&#34;troubleshooting1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/KafkaChat/ts_1.png&#34;&gt; &lt;!-- raw HTML omitted --&gt;Airflow - audit.py&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
