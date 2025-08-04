@@ -16,11 +16,11 @@
 &lt;/ul>
 &lt;h3 id="architecture">ARCHITECTURE&lt;/h3>
 &lt;p>Project architecture
-&lt;img alt="project" loading="lazy" src="https://s00zzang.github.io/images/KafkaChat/arch_project.png">&lt;/p>
+&lt;img alt="project" loading="lazy" src="../../images/KafkaChat/arch_project.png">&lt;/p>
 &lt;h3 id="point">POINT&lt;/h3>
 &lt;ul>
 &lt;li>Send and receive real-time messages using &amp;lsquo;KafkaProducer&amp;rsquo; and &amp;lsquo;KafkaConsumer&amp;rsquo;
-&lt;img alt="point1" loading="lazy" src="https://s00zzang.github.io/images/KafkaChat/point_1.png">
+&lt;img alt="point1" loading="lazy" src="../../images/KafkaChat/point_1.png">
 &lt;ul>
 &lt;li>The producer sends the message entered by the user to Kafka, and the consumer receives the message in real time from Kafka and outputs it on the screen.&lt;/li>
 &lt;/ul>
@@ -30,4 +30,4 @@
 &lt;ul>
 &lt;li>
 &lt;p>During the data extraction process using Airflow, special characters were also extracted.
-&lt;img alt="troubleshooting1" loading="lazy" src="https://s00zzang.github.io/images/KafkaChat/ts_1.png"> &lt;!-- raw HTML omitted -->Airflow - audit.py&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>
+&lt;img alt="troubleshooting1" loading="lazy" src="../../images/KafkaChat/ts_1.png"> &lt;!-- raw HTML omitted -->Airflow - audit.py&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>

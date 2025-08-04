@@ -57,9 +57,9 @@ This project involved studying &lt;a href="https://drive.google.com/file/d/1U82g
 &lt;/ul>
 &lt;h3 id="architecture">ARCHITECTURE&lt;/h3>
 &lt;p>Project architecture
-&lt;img alt="project" loading="lazy" src="https://s00zzang.github.io/images/CINEMATE/arch_project.png">
+&lt;img alt="project" loading="lazy" src="./images/CINEMATE/arch_project.png">
 DB architecture
-&lt;img alt="DB" loading="lazy" src="https://s00zzang.github.io/images/CINEMATE/arch_db.png">&lt;/p></description></item><item><title>Age Classfier</title><link>https://s00zzang.github.io/team-projects/age-predictor/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://s00zzang.github.io/team-projects/age-predictor/</guid><description>&lt;h3 id="summary">SUMMARY&lt;/h3>
+&lt;img alt="DB" loading="lazy" src="./images/CINEMATE/arch_db.png">&lt;/p></description></item><item><title>Age Classfier</title><link>https://s00zzang.github.io/team-projects/age-predictor/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://s00zzang.github.io/team-projects/age-predictor/</guid><description>&lt;h3 id="summary">SUMMARY&lt;/h3>
 &lt;p>A program that predicts a person&amp;rsquo;s age using an Age Classifier model when a face photo is uploaded.&lt;/p>
 &lt;h3 id="goal">GOAL&lt;/h3>
 &lt;p>Create an internal management program that manages services for ML and DL models, aggregates data, and analyzes it.&lt;/p>
@@ -78,7 +78,7 @@ DB architecture
 &lt;/ul>
 &lt;h3 id="architecture">ARCHITECTURE&lt;/h3>
 &lt;p>Project architecture
-&lt;img alt="project" loading="lazy" src="https://s00zzang.github.io/images/AgeClassifier/arch_project.png">&lt;/p></description></item><item><title>Business messenger based Kafka</title><link>https://s00zzang.github.io/team-projects/kafka-chat/</link><pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate><guid>https://s00zzang.github.io/team-projects/kafka-chat/</guid><description>&lt;h3 id="summary">SUMMARY&lt;/h3>
+&lt;img alt="project" loading="lazy" src="./images/AgeClassifier/arch_project.png">&lt;/p></description></item><item><title>Business messenger based Kafka</title><link>https://s00zzang.github.io/team-projects/kafka-chat/</link><pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate><guid>https://s00zzang.github.io/team-projects/kafka-chat/</guid><description>&lt;h3 id="summary">SUMMARY&lt;/h3>
 &lt;p>A program using Apache Kafka with added chatbot function.&lt;/p>
 &lt;h3 id="goal">GOAL&lt;/h3>
 &lt;p>Implement work conversation features, chatbot functions (movies, systems, schedules), and work conversation analysis features (using Zeppelin).&lt;/p>
@@ -96,11 +96,11 @@ DB architecture
 &lt;/ul>
 &lt;h3 id="architecture">ARCHITECTURE&lt;/h3>
 &lt;p>Project architecture
-&lt;img alt="project" loading="lazy" src="https://s00zzang.github.io/images/KafkaChat/arch_project.png">&lt;/p>
+&lt;img alt="project" loading="lazy" src="./images/KafkaChat/arch_project.png">&lt;/p>
 &lt;h3 id="point">POINT&lt;/h3>
 &lt;ul>
 &lt;li>Send and receive real-time messages using &amp;lsquo;KafkaProducer&amp;rsquo; and &amp;lsquo;KafkaConsumer&amp;rsquo;
-&lt;img alt="point1" loading="lazy" src="https://s00zzang.github.io/images/KafkaChat/point_1.png">
+&lt;img alt="point1" loading="lazy" src="./images/KafkaChat/point_1.png">
 &lt;ul>
 &lt;li>The producer sends the message entered by the user to Kafka, and the consumer receives the message in real time from Kafka and outputs it on the screen.&lt;/li>
 &lt;/ul>
@@ -110,4 +110,4 @@ DB architecture
 &lt;ul>
 &lt;li>
 &lt;p>During the data extraction process using Airflow, special characters were also extracted.
-&lt;img alt="troubleshooting1" loading="lazy" src="https://s00zzang.github.io/images/KafkaChat/ts_1.png"> &lt;!-- raw HTML omitted -->Airflow - audit.py&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>
+&lt;img alt="troubleshooting1" loading="lazy" src="./images/KafkaChat/ts_1.png"> &lt;!-- raw HTML omitted -->Airflow - audit.py&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>
